@@ -176,5 +176,3 @@ A atividade também pede um vídeo explicativo. [docs/APRESENTACAO.md](docs/APRE
 - [mledoze/countries](https://github.com/mledoze/countries), [Flagpedia](https://flagpedia.net/) e [FlagCDN](https://flagcdn.com/).
 
 Os READMEs de GeoBandeiras e QFlags foram consultados como referências de trabalhos da disciplina. A implementação, a interface e as regras deste projeto foram desenvolvidas separadamente; código e recursos desses dois trabalhos não foram incorporados.
-#   A p p B a n d e i r a s  
- 

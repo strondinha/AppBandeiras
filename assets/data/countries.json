@@ -1,0 +1,1367 @@
+[
+  {
+    "code": "AF",
+    "name": "Afeganistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/af.png"
+  },
+  {
+    "code": "AL",
+    "name": "Albânia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/al.png"
+  },
+  {
+    "code": "DE",
+    "name": "Alemanha",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/de.png"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/ad.png"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ao.png"
+  },
+  {
+    "code": "AG",
+    "name": "Antígua e Barbuda",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/ag.png"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/ar.png"
+  },
+  {
+    "code": "DZ",
+    "name": "Argélia",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/dz.png"
+  },
+  {
+    "code": "AM",
+    "name": "Arménia",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/am.png"
+  },
+  {
+    "code": "SA",
+    "name": "Arábia Saudita",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/sa.png"
+  },
+  {
+    "code": "AU",
+    "name": "Austrália",
+    "continent": "oceania",
+    "easy": true,
+    "flag": "assets/flags/au.png"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbeijão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/az.png"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/bs.png"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrein",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/bh.png"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/bd.png"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/bb.png"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/bz.png"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/bj.png"
+  },
+  {
+    "code": "BY",
+    "name": "Bielorússia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/by.png"
+  },
+  {
+    "code": "BO",
+    "name": "Bolívia",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/bo.png"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/bw.png"
+  },
+  {
+    "code": "BR",
+    "name": "Brasil",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/br.png"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/bn.png"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgária",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/bg.png"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/bf.png"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/bi.png"
+  },
+  {
+    "code": "BT",
+    "name": "Butão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/bt.png"
+  },
+  {
+    "code": "BE",
+    "name": "Bélgica",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/be.png"
+  },
+  {
+    "code": "BA",
+    "name": "Bósnia e Herzegovina",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/ba.png"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/cv.png"
+  },
+  {
+    "code": "CM",
+    "name": "Camarões",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/cm.png"
+  },
+  {
+    "code": "KH",
+    "name": "Camboja",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/kh.png"
+  },
+  {
+    "code": "CA",
+    "name": "Canadá",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/ca.png"
+  },
+  {
+    "code": "QA",
+    "name": "Catar",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/qa.png"
+  },
+  {
+    "code": "KZ",
+    "name": "Cazaquistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/kz.png"
+  },
+  {
+    "code": "TD",
+    "name": "Chade",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/td.png"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/cl.png"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/cn.png"
+  },
+  {
+    "code": "CY",
+    "name": "Chipre",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/cy.png"
+  },
+  {
+    "code": "CO",
+    "name": "Colômbia",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/co.png"
+  },
+  {
+    "code": "KM",
+    "name": "Comores",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/km.png"
+  },
+  {
+    "code": "KP",
+    "name": "Coreia do Norte",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/kp.png"
+  },
+  {
+    "code": "KR",
+    "name": "Coreia do Sul",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/kr.png"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/cr.png"
+  },
+  {
+    "code": "CI",
+    "name": "Costa do Marfim",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ci.png"
+  },
+  {
+    "code": "HR",
+    "name": "Croácia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/hr.png"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/cu.png"
+  },
+  {
+    "code": "DK",
+    "name": "Dinamarca",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/dk.png"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/dj.png"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/dm.png"
+  },
+  {
+    "code": "EG",
+    "name": "Egito",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/eg.png"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/sv.png"
+  },
+  {
+    "code": "AE",
+    "name": "Emirados Árabes Unidos",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/ae.png"
+  },
+  {
+    "code": "EC",
+    "name": "Equador",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/ec.png"
+  },
+  {
+    "code": "ER",
+    "name": "Eritreia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/er.png"
+  },
+  {
+    "code": "SK",
+    "name": "Eslováquia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/sk.png"
+  },
+  {
+    "code": "SI",
+    "name": "Eslovénia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/si.png"
+  },
+  {
+    "code": "ES",
+    "name": "Espanha",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/es.png"
+  },
+  {
+    "code": "SZ",
+    "name": "Essuatíni",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/sz.png"
+  },
+  {
+    "code": "US",
+    "name": "Estados Unidos",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/us.png"
+  },
+  {
+    "code": "EE",
+    "name": "Estónia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/ee.png"
+  },
+  {
+    "code": "ET",
+    "name": "Etiópia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/et.png"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "continent": "oceania",
+    "easy": true,
+    "flag": "assets/flags/fj.png"
+  },
+  {
+    "code": "PH",
+    "name": "Filipinas",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/ph.png"
+  },
+  {
+    "code": "FI",
+    "name": "Finlândia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/fi.png"
+  },
+  {
+    "code": "FR",
+    "name": "França",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/fr.png"
+  },
+  {
+    "code": "GA",
+    "name": "Gabão",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ga.png"
+  },
+  {
+    "code": "GH",
+    "name": "Gana",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/gh.png"
+  },
+  {
+    "code": "GE",
+    "name": "Geórgia",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/ge.png"
+  },
+  {
+    "code": "GD",
+    "name": "Granada",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/gd.png"
+  },
+  {
+    "code": "GR",
+    "name": "Grécia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/gr.png"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/gt.png"
+  },
+  {
+    "code": "GY",
+    "name": "Guiana",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/gy.png"
+  },
+  {
+    "code": "GN",
+    "name": "Guiné",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/gn.png"
+  },
+  {
+    "code": "GQ",
+    "name": "Guiné Equatorial",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/gq.png"
+  },
+  {
+    "code": "GW",
+    "name": "Guiné-Bissau",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/gw.png"
+  },
+  {
+    "code": "GM",
+    "name": "Gâmbia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/gm.png"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/ht.png"
+  },
+  {
+    "code": "NL",
+    "name": "Holanda",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/nl.png"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/hn.png"
+  },
+  {
+    "code": "HU",
+    "name": "Hungria",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/hu.png"
+  },
+  {
+    "code": "MH",
+    "name": "Ilhas Marshall",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/mh.png"
+  },
+  {
+    "code": "SB",
+    "name": "Ilhas Salomão",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/sb.png"
+  },
+  {
+    "code": "ID",
+    "name": "Indonésia",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/id.png"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraque",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/iq.png"
+  },
+  {
+    "code": "IE",
+    "name": "Irlanda",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/ie.png"
+  },
+  {
+    "code": "IR",
+    "name": "Irão",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/ir.png"
+  },
+  {
+    "code": "IS",
+    "name": "Islândia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/is.png"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/il.png"
+  },
+  {
+    "code": "IT",
+    "name": "Itália",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/it.png"
+  },
+  {
+    "code": "YE",
+    "name": "Iémen",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/ye.png"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/jm.png"
+  },
+  {
+    "code": "JP",
+    "name": "Japão",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/jp.png"
+  },
+  {
+    "code": "JO",
+    "name": "Jordânia",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/jo.png"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/ki.png"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/kw.png"
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/la.png"
+  },
+  {
+    "code": "LS",
+    "name": "Lesoto",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ls.png"
+  },
+  {
+    "code": "LV",
+    "name": "Letónia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/lv.png"
+  },
+  {
+    "code": "LR",
+    "name": "Libéria",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/lr.png"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/li.png"
+  },
+  {
+    "code": "LT",
+    "name": "Lituânia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/lt.png"
+  },
+  {
+    "code": "LU",
+    "name": "Luxemburgo",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/lu.png"
+  },
+  {
+    "code": "LB",
+    "name": "Líbano",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/lb.png"
+  },
+  {
+    "code": "LY",
+    "name": "Líbia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ly.png"
+  },
+  {
+    "code": "MK",
+    "name": "Macedônia do Norte",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/mk.png"
+  },
+  {
+    "code": "MG",
+    "name": "Madagáscar",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/mg.png"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/mw.png"
+  },
+  {
+    "code": "MV",
+    "name": "Maldivas",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/mv.png"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ml.png"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/mt.png"
+  },
+  {
+    "code": "MY",
+    "name": "Malásia",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/my.png"
+  },
+  {
+    "code": "MA",
+    "name": "Marrocos",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/ma.png"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritânia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/mr.png"
+  },
+  {
+    "code": "MU",
+    "name": "Maurício",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/mu.png"
+  },
+  {
+    "code": "FM",
+    "name": "Micronésia",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/fm.png"
+  },
+  {
+    "code": "MD",
+    "name": "Moldávia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/md.png"
+  },
+  {
+    "code": "MN",
+    "name": "Mongólia",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/mn.png"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/me.png"
+  },
+  {
+    "code": "MZ",
+    "name": "Moçambique",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/mz.png"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/mm.png"
+  },
+  {
+    "code": "MX",
+    "name": "México",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/mx.png"
+  },
+  {
+    "code": "MC",
+    "name": "Mónaco",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/mc.png"
+  },
+  {
+    "code": "NA",
+    "name": "Namíbia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/na.png"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/nr.png"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/np.png"
+  },
+  {
+    "code": "NI",
+    "name": "Nicarágua",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/ni.png"
+  },
+  {
+    "code": "NG",
+    "name": "Nigéria",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/ng.png"
+  },
+  {
+    "code": "NO",
+    "name": "Noruega",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/no.png"
+  },
+  {
+    "code": "NZ",
+    "name": "Nova Zelândia",
+    "continent": "oceania",
+    "easy": true,
+    "flag": "assets/flags/nz.png"
+  },
+  {
+    "code": "NE",
+    "name": "Níger",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ne.png"
+  },
+  {
+    "code": "OM",
+    "name": "Omã",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/om.png"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/pw.png"
+  },
+  {
+    "code": "PS",
+    "name": "Palestina",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/ps.png"
+  },
+  {
+    "code": "PA",
+    "name": "Panamá",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/pa.png"
+  },
+  {
+    "code": "PG",
+    "name": "Papua Nova Guiné",
+    "continent": "oceania",
+    "easy": true,
+    "flag": "assets/flags/pg.png"
+  },
+  {
+    "code": "PK",
+    "name": "Paquistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/pk.png"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguai",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/py.png"
+  },
+  {
+    "code": "PE",
+    "name": "Perú",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/pe.png"
+  },
+  {
+    "code": "PL",
+    "name": "Polónia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/pl.png"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/pt.png"
+  },
+  {
+    "code": "KG",
+    "name": "Quirguistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/kg.png"
+  },
+  {
+    "code": "KE",
+    "name": "Quénia",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/ke.png"
+  },
+  {
+    "code": "GB",
+    "name": "Reino Unido",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/gb.png"
+  },
+  {
+    "code": "CF",
+    "name": "República Centro-Africana",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/cf.png"
+  },
+  {
+    "code": "CD",
+    "name": "República Democrática do Congo",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/cd.png"
+  },
+  {
+    "code": "DO",
+    "name": "República Dominicana",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/do.png"
+  },
+  {
+    "code": "CG",
+    "name": "República do Congo",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/cg.png"
+  },
+  {
+    "code": "RO",
+    "name": "Roménia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/ro.png"
+  },
+  {
+    "code": "RW",
+    "name": "Ruanda",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/rw.png"
+  },
+  {
+    "code": "RU",
+    "name": "Rússia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/ru.png"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "continent": "oceania",
+    "easy": true,
+    "flag": "assets/flags/ws.png"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/sm.png"
+  },
+  {
+    "code": "LC",
+    "name": "Santa Lúcia",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/lc.png"
+  },
+  {
+    "code": "SC",
+    "name": "Seicheles",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/sc.png"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/sn.png"
+  },
+  {
+    "code": "SL",
+    "name": "Serra Leoa",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/sl.png"
+  },
+  {
+    "code": "SG",
+    "name": "Singapura",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/sg.png"
+  },
+  {
+    "code": "SO",
+    "name": "Somália",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/so.png"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/lk.png"
+  },
+  {
+    "code": "SD",
+    "name": "Sudão",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/sd.png"
+  },
+  {
+    "code": "SS",
+    "name": "Sudão do Sul",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ss.png"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/sr.png"
+  },
+  {
+    "code": "SE",
+    "name": "Suécia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/se.png"
+  },
+  {
+    "code": "CH",
+    "name": "Suíça",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/ch.png"
+  },
+  {
+    "code": "KN",
+    "name": "São Cristóvão e Nevis",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/kn.png"
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé e Príncipe",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/st.png"
+  },
+  {
+    "code": "VC",
+    "name": "São Vincente e Granadinas",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/vc.png"
+  },
+  {
+    "code": "RS",
+    "name": "Sérvia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/rs.png"
+  },
+  {
+    "code": "SY",
+    "name": "Síria",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/sy.png"
+  },
+  {
+    "code": "TH",
+    "name": "Tailândia",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/th.png"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajiquistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/tj.png"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzânia",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/tz.png"
+  },
+  {
+    "code": "CZ",
+    "name": "Tchéquia",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/cz.png"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/tl.png"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/tg.png"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "continent": "oceania",
+    "easy": true,
+    "flag": "assets/flags/to.png"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidade e Tobago",
+    "continent": "america",
+    "easy": false,
+    "flag": "assets/flags/tt.png"
+  },
+  {
+    "code": "TN",
+    "name": "Tunísia",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/tn.png"
+  },
+  {
+    "code": "TM",
+    "name": "Turquemenistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/tm.png"
+  },
+  {
+    "code": "TR",
+    "name": "Turquia",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/tr.png"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/tv.png"
+  },
+  {
+    "code": "UA",
+    "name": "Ucrânia",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/ua.png"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/ug.png"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguai",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/uy.png"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbequistão",
+    "continent": "asia",
+    "easy": false,
+    "flag": "assets/flags/uz.png"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "continent": "oceania",
+    "easy": false,
+    "flag": "assets/flags/vu.png"
+  },
+  {
+    "code": "VA",
+    "name": "Vaticano",
+    "continent": "europe",
+    "easy": false,
+    "flag": "assets/flags/va.png"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "continent": "america",
+    "easy": true,
+    "flag": "assets/flags/ve.png"
+  },
+  {
+    "code": "VN",
+    "name": "Vietname",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/vn.png"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/zw.png"
+  },
+  {
+    "code": "ZM",
+    "name": "Zâmbia",
+    "continent": "africa",
+    "easy": false,
+    "flag": "assets/flags/zm.png"
+  },
+  {
+    "code": "ZA",
+    "name": "África do Sul",
+    "continent": "africa",
+    "easy": true,
+    "flag": "assets/flags/za.png"
+  },
+  {
+    "code": "AT",
+    "name": "Áustria",
+    "continent": "europe",
+    "easy": true,
+    "flag": "assets/flags/at.png"
+  },
+  {
+    "code": "IN",
+    "name": "Índia",
+    "continent": "asia",
+    "easy": true,
+    "flag": "assets/flags/in.png"
+  }
+]
